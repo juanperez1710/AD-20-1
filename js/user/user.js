@@ -4,7 +4,7 @@ class User {
       this.name = name;
       this.email = email;
     }
-
+  
     getId(){
         return this.id;
     }
